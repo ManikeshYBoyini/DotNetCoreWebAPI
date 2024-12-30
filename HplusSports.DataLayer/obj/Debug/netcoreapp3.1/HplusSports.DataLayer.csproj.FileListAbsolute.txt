@@ -1,0 +1,23 @@
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\HplusSports.DataLayer\bin\Debug\netcoreapp3.1\HplusSports.DataLayer.deps.json
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\HplusSports.DataLayer\bin\Debug\netcoreapp3.1\HplusSports.DataLayer.dll
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\HplusSports.DataLayer\bin\Debug\netcoreapp3.1\HplusSports.DataLayer.pdb
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\HplusSports.DataLayer\obj\Debug\netcoreapp3.1\HplusSports.DataLayer.csproj.AssemblyReference.cache
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\HplusSports.DataLayer\obj\Debug\netcoreapp3.1\HplusSports.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\HplusSports.DataLayer\obj\Debug\netcoreapp3.1\HplusSports.DataLayer.AssemblyInfoInputs.cache
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\HplusSports.DataLayer\obj\Debug\netcoreapp3.1\HplusSports.DataLayer.AssemblyInfo.cs
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\HplusSports.DataLayer\obj\Debug\netcoreapp3.1\HplusSports.DataLayer.csproj.CoreCompileInputs.cache
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\HplusSports.DataLayer\obj\Debug\netcoreapp3.1\HplusSports.DataLayer.dll
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\HplusSports.DataLayer\obj\Debug\netcoreapp3.1\HplusSports.DataLayer.pdb
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HplusSports.DataLayer\bin\Debug\netcoreapp3.1\HplusSports.DataLayer.deps.json
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HplusSports.DataLayer\bin\Debug\netcoreapp3.1\HplusSports.DataLayer.runtimeconfig.json
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HplusSports.DataLayer\bin\Debug\netcoreapp3.1\HplusSports.DataLayer.runtimeconfig.dev.json
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HplusSports.DataLayer\bin\Debug\netcoreapp3.1\HplusSports.DataLayer.dll
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HplusSports.DataLayer\bin\Debug\netcoreapp3.1\HplusSports.DataLayer.pdb
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HplusSports.DataLayer\obj\Debug\netcoreapp3.1\HplusSports.DataLayer.csproj.AssemblyReference.cache
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HplusSports.DataLayer\obj\Debug\netcoreapp3.1\HplusSports.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HplusSports.DataLayer\obj\Debug\netcoreapp3.1\HplusSports.DataLayer.AssemblyInfoInputs.cache
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HplusSports.DataLayer\obj\Debug\netcoreapp3.1\HplusSports.DataLayer.AssemblyInfo.cs
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HplusSports.DataLayer\obj\Debug\netcoreapp3.1\HplusSports.DataLayer.csproj.CoreCompileInputs.cache
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HplusSports.DataLayer\obj\Debug\netcoreapp3.1\HplusSports.DataLayer.dll
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HplusSports.DataLayer\obj\Debug\netcoreapp3.1\HplusSports.DataLayer.pdb
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HplusSports.DataLayer\obj\Debug\netcoreapp3.1\HplusSports.DataLayer.genruntimeconfig.cache

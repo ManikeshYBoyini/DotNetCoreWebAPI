@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\Professional\\CSharpMaterial\\MyFirstWebApiCore\\MyFirstWebApiCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13FC9F44-E468-42D4-8071-A3D4C1C202A4}|MyFirstWebApiCore\\HplusSports.Api.csproj|m:\\professional\\csharpmaterial\\myfirstwebapicore\\myfirstwebapicore\\myfirstwebapicore\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FC9F44-E468-42D4-8071-A3D4C1C202A4}|MyFirstWebApiCore\\HplusSports.Api.csproj|solutionrelative:myfirstwebapicore\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FC9F44-E468-42D4-8071-A3D4C1C202A4}|MyFirstWebApiCore\\HplusSports.Api.csproj|m:\\professional\\csharpmaterial\\myfirstwebapicore\\myfirstwebapicore\\myfirstwebapicore\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FC9F44-E468-42D4-8071-A3D4C1C202A4}|MyFirstWebApiCore\\HplusSports.Api.csproj|solutionrelative:myfirstwebapicore\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FC9F44-E468-42D4-8071-A3D4C1C202A4}|MyFirstWebApiCore\\HplusSports.Api.csproj|m:\\professional\\csharpmaterial\\myfirstwebapicore\\myfirstwebapicore\\myfirstwebapicore\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FC9F44-E468-42D4-8071-A3D4C1C202A4}|MyFirstWebApiCore\\HplusSports.Api.csproj|solutionrelative:myfirstwebapicore\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FC9F44-E468-42D4-8071-A3D4C1C202A4}|MyFirstWebApiCore\\HplusSports.Api.csproj|m:\\professional\\csharpmaterial\\myfirstwebapicore\\myfirstwebapicore\\myfirstwebapicore\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FC9F44-E468-42D4-8071-A3D4C1C202A4}|MyFirstWebApiCore\\HplusSports.Api.csproj|solutionrelative:myfirstwebapicore\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A585A976-4FBB-4281-965F-0FEE36EF6283}|HplusSports.DataLayer\\HplusSports.DataLayer.csproj|m:\\professional\\csharpmaterial\\myfirstwebapicore\\myfirstwebapicore\\hplussports.datalayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A585A976-4FBB-4281-965F-0FEE36EF6283}|HplusSports.DataLayer\\HplusSports.DataLayer.csproj|solutionrelative:hplussports.datalayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FC9F44-E468-42D4-8071-A3D4C1C202A4}|MyFirstWebApiCore\\HplusSports.Api.csproj|m:\\professional\\csharpmaterial\\myfirstwebapicore\\myfirstwebapicore\\myfirstwebapicore\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FC9F44-E468-42D4-8071-A3D4C1C202A4}|MyFirstWebApiCore\\HplusSports.Api.csproj|solutionrelative:myfirstwebapicore\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FC9F44-E468-42D4-8071-A3D4C1C202A4}|MyFirstWebApiCore\\HplusSports.Api.csproj|m:\\professional\\csharpmaterial\\myfirstwebapicore\\myfirstwebapicore\\myfirstwebapicore\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FC9F44-E468-42D4-8071-A3D4C1C202A4}|MyFirstWebApiCore\\HplusSports.Api.csproj|solutionrelative:myfirstwebapicore\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FC9F44-E468-42D4-8071-A3D4C1C202A4}|MyFirstWebApiCore\\HplusSports.Api.csproj|m:\\professional\\csharpmaterial\\myfirstwebapicore\\myfirstwebapicore\\myfirstwebapicore\\controllers\\productsv2_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FC9F44-E468-42D4-8071-A3D4C1C202A4}|MyFirstWebApiCore\\HplusSports.Api.csproj|solutionrelative:myfirstwebapicore\\controllers\\productsv2_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FC9F44-E468-42D4-8071-A3D4C1C202A4}|MyFirstWebApiCore\\HplusSports.Api.csproj|m:\\professional\\csharpmaterial\\myfirstwebapicore\\myfirstwebapicore\\myfirstwebapicore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FC9F44-E468-42D4-8071-A3D4C1C202A4}|MyFirstWebApiCore\\HplusSports.Api.csproj|solutionrelative:myfirstwebapicore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D87EC4-13AE-4BBD-821E-B91023F375B9}|HPlusSports.Web\\HPlusSports.Web.csproj|m:\\professional\\csharpmaterial\\myfirstwebapicore\\myfirstwebapicore\\hplussports.web\\middleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D87EC4-13AE-4BBD-821E-B91023F375B9}|HPlusSports.Web\\HPlusSports.Web.csproj|solutionrelative:hplussports.web\\middleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D87EC4-13AE-4BBD-821E-B91023F375B9}|HPlusSports.Web\\HPlusSports.Web.csproj|m:\\professional\\csharpmaterial\\myfirstwebapicore\\myfirstwebapicore\\hplussports.web\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D87EC4-13AE-4BBD-821E-B91023F375B9}|HPlusSports.Web\\HPlusSports.Web.csproj|solutionrelative:hplussports.web\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "M:\\Professional\\CSharpMaterial\\MyFirstWebApiCore\\MyFirstWebApiCore\\MyFirstWebApiCore\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "MyFirstWebApiCore\\WeatherForecast.cs",
+              "ToolTip": "M:\\Professional\\CSharpMaterial\\MyFirstWebApiCore\\MyFirstWebApiCore\\MyFirstWebApiCore\\WeatherForecast.cs",
+              "RelativeToolTip": "MyFirstWebApiCore\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T04:54:38.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "M:\\Professional\\CSharpMaterial\\MyFirstWebApiCore\\MyFirstWebApiCore\\HplusSports.DataLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "HplusSports.DataLayer\\Class1.cs",
+              "ToolTip": "M:\\Professional\\CSharpMaterial\\MyFirstWebApiCore\\MyFirstWebApiCore\\HplusSports.DataLayer\\Class1.cs",
+              "RelativeToolTip": "HplusSports.DataLayer\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T04:54:36.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "M:\\Professional\\CSharpMaterial\\MyFirstWebApiCore\\MyFirstWebApiCore\\MyFirstWebApiCore\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "MyFirstWebApiCore\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "M:\\Professional\\CSharpMaterial\\MyFirstWebApiCore\\MyFirstWebApiCore\\MyFirstWebApiCore\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "MyFirstWebApiCore\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T10:49:06.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsV2_Controller.cs",
+              "DocumentMoniker": "M:\\Professional\\CSharpMaterial\\MyFirstWebApiCore\\MyFirstWebApiCore\\MyFirstWebApiCore\\Controllers\\ProductsV2_Controller.cs",
+              "RelativeDocumentMoniker": "MyFirstWebApiCore\\Controllers\\ProductsV2_Controller.cs",
+              "ToolTip": "M:\\Professional\\CSharpMaterial\\MyFirstWebApiCore\\MyFirstWebApiCore\\MyFirstWebApiCore\\Controllers\\ProductsV2_Controller.cs",
+              "RelativeToolTip": "MyFirstWebApiCore\\Controllers\\ProductsV2_Controller.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T10:48:30.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "M:\\Professional\\CSharpMaterial\\MyFirstWebApiCore\\MyFirstWebApiCore\\MyFirstWebApiCore\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "MyFirstWebApiCore\\Models\\Category.cs",
+              "ToolTip": "M:\\Professional\\CSharpMaterial\\MyFirstWebApiCore\\MyFirstWebApiCore\\MyFirstWebApiCore\\Models\\Category.cs",
+              "RelativeToolTip": "MyFirstWebApiCore\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T09:22:10.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "M:\\Professional\\CSharpMaterial\\MyFirstWebApiCore\\MyFirstWebApiCore\\HPlusSports.Web\\Startup.cs",
+              "RelativeDocumentMoniker": "HPlusSports.Web\\Startup.cs",
+              "ToolTip": "M:\\Professional\\CSharpMaterial\\MyFirstWebApiCore\\MyFirstWebApiCore\\HPlusSports.Web\\Startup.cs",
+              "RelativeToolTip": "HPlusSports.Web\\Startup.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T05:43:57.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Middleware.cs",
+              "DocumentMoniker": "M:\\Professional\\CSharpMaterial\\MyFirstWebApiCore\\MyFirstWebApiCore\\HPlusSports.Web\\Middleware.cs",
+              "RelativeDocumentMoniker": "HPlusSports.Web\\Middleware.cs",
+              "ToolTip": "M:\\Professional\\CSharpMaterial\\MyFirstWebApiCore\\MyFirstWebApiCore\\HPlusSports.Web\\Middleware.cs",
+              "RelativeToolTip": "HPlusSports.Web\\Middleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T05:43:00.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "M:\\Professional\\CSharpMaterial\\MyFirstWebApiCore\\MyFirstWebApiCore\\MyFirstWebApiCore\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "MyFirstWebApiCore\\Controllers\\ProductsController.cs",
+              "ToolTip": "M:\\Professional\\CSharpMaterial\\MyFirstWebApiCore\\MyFirstWebApiCore\\MyFirstWebApiCore\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "MyFirstWebApiCore\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-04T13:29:41.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "M:\\Professional\\CSharpMaterial\\MyFirstWebApiCore\\MyFirstWebApiCore\\MyFirstWebApiCore\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "MyFirstWebApiCore\\Controllers\\CategoryController.cs",
+              "ToolTip": "M:\\Professional\\CSharpMaterial\\MyFirstWebApiCore\\MyFirstWebApiCore\\MyFirstWebApiCore\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "MyFirstWebApiCore\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-04T13:29:36.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "M:\\Professional\\CSharpMaterial\\MyFirstWebApiCore\\MyFirstWebApiCore\\MyFirstWebApiCore\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "MyFirstWebApiCore\\Controllers\\UserController.cs",
+              "ToolTip": "M:\\Professional\\CSharpMaterial\\MyFirstWebApiCore\\MyFirstWebApiCore\\MyFirstWebApiCore\\Controllers\\UserController.cs",
+              "RelativeToolTip": "MyFirstWebApiCore\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-04T13:29:27.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "M:\\Professional\\CSharpMaterial\\MyFirstWebApiCore\\MyFirstWebApiCore\\MyFirstWebApiCore\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MyFirstWebApiCore\\Models\\Product.cs",
+              "ToolTip": "M:\\Professional\\CSharpMaterial\\MyFirstWebApiCore\\MyFirstWebApiCore\\MyFirstWebApiCore\\Models\\Product.cs",
+              "RelativeToolTip": "MyFirstWebApiCore\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T09:21:57.518Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

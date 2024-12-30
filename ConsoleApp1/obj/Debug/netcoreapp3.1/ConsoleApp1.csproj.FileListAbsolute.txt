@@ -1,0 +1,40 @@
+C:\Mboyini_Files\MyFirstWebApiCore\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Mboyini_Files\MyFirstWebApiCore\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Mboyini_Files\MyFirstWebApiCore\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Mboyini_Files\MyFirstWebApiCore\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Mboyini_Files\MyFirstWebApiCore\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Mboyini_Files\MyFirstWebApiCore\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Mboyini_Files\MyFirstWebApiCore\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Mboyini_Files\MyFirstWebApiCore\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Mboyini_Files\MyFirstWebApiCore\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Mboyini_Files\MyFirstWebApiCore\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Mboyini_Files\MyFirstWebApiCore\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Mboyini_Files\MyFirstWebApiCore\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+C:\Mboyini_Files\MyFirstWebApiCore\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

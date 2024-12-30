@@ -1,0 +1,153 @@
+C:\Users\m_boyini\source\repos\MyFirstWebApiCore\HPlusSports.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\m_boyini\source\repos\MyFirstWebApiCore\HPlusSports.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\m_boyini\source\repos\MyFirstWebApiCore\HPlusSports.Web\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\m_boyini\source\repos\MyFirstWebApiCore\HPlusSports.Web\bin\Debug\netcoreapp3.1\HPlusSports.Web.exe
+C:\Users\m_boyini\source\repos\MyFirstWebApiCore\HPlusSports.Web\bin\Debug\netcoreapp3.1\HPlusSports.Web.deps.json
+C:\Users\m_boyini\source\repos\MyFirstWebApiCore\HPlusSports.Web\bin\Debug\netcoreapp3.1\HPlusSports.Web.runtimeconfig.json
+C:\Users\m_boyini\source\repos\MyFirstWebApiCore\HPlusSports.Web\bin\Debug\netcoreapp3.1\HPlusSports.Web.runtimeconfig.dev.json
+C:\Users\m_boyini\source\repos\MyFirstWebApiCore\HPlusSports.Web\bin\Debug\netcoreapp3.1\HPlusSports.Web.dll
+C:\Users\m_boyini\source\repos\MyFirstWebApiCore\HPlusSports.Web\bin\Debug\netcoreapp3.1\HPlusSports.Web.pdb
+C:\Users\m_boyini\source\repos\MyFirstWebApiCore\HPlusSports.Web\bin\Debug\netcoreapp3.1\HPlusSports.Web.Views.dll
+C:\Users\m_boyini\source\repos\MyFirstWebApiCore\HPlusSports.Web\bin\Debug\netcoreapp3.1\HPlusSports.Web.Views.pdb
+C:\Users\m_boyini\source\repos\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.csprojAssemblyReference.cache
+C:\Users\m_boyini\source\repos\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.csproj.CoreCompileInputs.cache
+C:\Users\m_boyini\source\repos\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\m_boyini\source\repos\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.RazorAssemblyInfo.cache
+C:\Users\m_boyini\source\repos\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.RazorAssemblyInfo.cs
+C:\Users\m_boyini\source\repos\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.AssemblyInfoInputs.cache
+C:\Users\m_boyini\source\repos\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.AssemblyInfo.cs
+C:\Users\m_boyini\source\repos\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.TagHelpers.input.cache
+C:\Users\m_boyini\source\repos\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.TagHelpers.output.cache
+C:\Users\m_boyini\source\repos\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.RazorCoreGenerate.cache
+C:\Users\m_boyini\source\repos\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\m_boyini\source\repos\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\m_boyini\source\repos\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\m_boyini\source\repos\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\m_boyini\source\repos\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\m_boyini\source\repos\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\m_boyini\source\repos\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\m_boyini\source\repos\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.RazorTargetAssemblyInfo.cache
+C:\Users\m_boyini\source\repos\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.RazorTargetAssemblyInfo.cs
+C:\Users\m_boyini\source\repos\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.Views.pdb
+C:\Users\m_boyini\source\repos\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\staticwebassets\HPlusSports.Web.StaticWebAssets.Manifest.cache
+C:\Users\m_boyini\source\repos\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\staticwebassets\HPlusSports.Web.StaticWebAssets.xml
+C:\Users\m_boyini\source\repos\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.dll
+C:\Users\m_boyini\source\repos\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.pdb
+C:\Users\m_boyini\source\repos\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.genruntimeconfig.cache
+C:\Users\m_boyini\source\repos\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.csproj.CopyComplete
+C:\Mboyini_Files\MyFirstWebApiCore\HPlusSports.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Mboyini_Files\MyFirstWebApiCore\HPlusSports.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Mboyini_Files\MyFirstWebApiCore\HPlusSports.Web\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Mboyini_Files\MyFirstWebApiCore\HPlusSports.Web\bin\Debug\netcoreapp3.1\HPlusSports.Web.exe
+C:\Mboyini_Files\MyFirstWebApiCore\HPlusSports.Web\bin\Debug\netcoreapp3.1\HPlusSports.Web.deps.json
+C:\Mboyini_Files\MyFirstWebApiCore\HPlusSports.Web\bin\Debug\netcoreapp3.1\HPlusSports.Web.runtimeconfig.json
+C:\Mboyini_Files\MyFirstWebApiCore\HPlusSports.Web\bin\Debug\netcoreapp3.1\HPlusSports.Web.runtimeconfig.dev.json
+C:\Mboyini_Files\MyFirstWebApiCore\HPlusSports.Web\bin\Debug\netcoreapp3.1\HPlusSports.Web.dll
+C:\Mboyini_Files\MyFirstWebApiCore\HPlusSports.Web\bin\Debug\netcoreapp3.1\HPlusSports.Web.pdb
+C:\Mboyini_Files\MyFirstWebApiCore\HPlusSports.Web\bin\Debug\netcoreapp3.1\HPlusSports.Web.Views.dll
+C:\Mboyini_Files\MyFirstWebApiCore\HPlusSports.Web\bin\Debug\netcoreapp3.1\HPlusSports.Web.Views.pdb
+C:\Mboyini_Files\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.csprojAssemblyReference.cache
+C:\Mboyini_Files\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.csproj.CoreCompileInputs.cache
+C:\Mboyini_Files\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Mboyini_Files\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.RazorAssemblyInfo.cache
+C:\Mboyini_Files\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.RazorAssemblyInfo.cs
+C:\Mboyini_Files\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.AssemblyInfoInputs.cache
+C:\Mboyini_Files\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.AssemblyInfo.cs
+C:\Mboyini_Files\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.TagHelpers.input.cache
+C:\Mboyini_Files\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.TagHelpers.output.cache
+C:\Mboyini_Files\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.RazorCoreGenerate.cache
+C:\Mboyini_Files\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Mboyini_Files\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Mboyini_Files\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Mboyini_Files\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Mboyini_Files\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Mboyini_Files\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Mboyini_Files\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Mboyini_Files\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.RazorTargetAssemblyInfo.cache
+C:\Mboyini_Files\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.RazorTargetAssemblyInfo.cs
+C:\Mboyini_Files\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.Views.pdb
+C:\Mboyini_Files\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\staticwebassets\HPlusSports.Web.StaticWebAssets.Manifest.cache
+C:\Mboyini_Files\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\staticwebassets\HPlusSports.Web.StaticWebAssets.xml
+C:\Mboyini_Files\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.dll
+C:\Mboyini_Files\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.pdb
+C:\Mboyini_Files\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.genruntimeconfig.cache
+C:\Mboyini_Files\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.csproj.CopyComplete
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\HPlusSports.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\HPlusSports.Web\bin\Debug\netcoreapp3.1\appsettings.json
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\HPlusSports.Web\bin\Debug\netcoreapp3.1\HPlusSports.Web.exe
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\HPlusSports.Web\bin\Debug\netcoreapp3.1\HPlusSports.Web.deps.json
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\HPlusSports.Web\bin\Debug\netcoreapp3.1\HPlusSports.Web.runtimeconfig.json
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\HPlusSports.Web\bin\Debug\netcoreapp3.1\HPlusSports.Web.runtimeconfig.dev.json
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\HPlusSports.Web\bin\Debug\netcoreapp3.1\HPlusSports.Web.dll
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\HPlusSports.Web\bin\Debug\netcoreapp3.1\HPlusSports.Web.pdb
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\HPlusSports.Web\bin\Debug\netcoreapp3.1\HPlusSports.Web.Views.dll
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\HPlusSports.Web\bin\Debug\netcoreapp3.1\HPlusSports.Web.Views.pdb
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.csproj.AssemblyReference.cache
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.GeneratedMSBuildEditorConfig.editorconfig
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.AssemblyInfoInputs.cache
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.AssemblyInfo.cs
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.csproj.CoreCompileInputs.cache
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.MvcApplicationPartsAssemblyInfo.cache
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.RazorAssemblyInfo.cache
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.RazorAssemblyInfo.cs
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\staticwebassets\HPlusSports.Web.StaticWebAssets.Manifest.cache
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\staticwebassets\HPlusSports.Web.StaticWebAssets.xml
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\scopedcss\bundle\HPlusSports.Web.styles.css
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.TagHelpers.input.cache
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.TagHelpers.output.cache
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.RazorCoreGenerate.cache
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.RazorTargetAssemblyInfo.cache
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.RazorTargetAssemblyInfo.cs
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.Views.pdb
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.dll
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.pdb
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.genruntimeconfig.cache
+M:\CSharpMaterial\MyFirstWebApiCore (1)\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.csproj.CopyComplete
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HPlusSports.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HPlusSports.Web\bin\Debug\netcoreapp3.1\appsettings.json
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HPlusSports.Web\bin\Debug\netcoreapp3.1\HPlusSports.Web.StaticWebAssets.xml
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HPlusSports.Web\bin\Debug\netcoreapp3.1\HPlusSports.Web.exe
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HPlusSports.Web\bin\Debug\netcoreapp3.1\HPlusSports.Web.deps.json
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HPlusSports.Web\bin\Debug\netcoreapp3.1\HPlusSports.Web.runtimeconfig.json
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HPlusSports.Web\bin\Debug\netcoreapp3.1\HPlusSports.Web.runtimeconfig.dev.json
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HPlusSports.Web\bin\Debug\netcoreapp3.1\HPlusSports.Web.dll
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HPlusSports.Web\bin\Debug\netcoreapp3.1\HPlusSports.Web.pdb
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HPlusSports.Web\bin\Debug\netcoreapp3.1\HPlusSports.Web.Views.dll
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HPlusSports.Web\bin\Debug\netcoreapp3.1\HPlusSports.Web.Views.pdb
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.GeneratedMSBuildEditorConfig.editorconfig
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.AssemblyInfoInputs.cache
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.AssemblyInfo.cs
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.csproj.CoreCompileInputs.cache
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.MvcApplicationPartsAssemblyInfo.cache
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.RazorAssemblyInfo.cache
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.RazorAssemblyInfo.cs
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.TagHelpers.input.cache
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.TagHelpers.output.cache
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.RazorCoreGenerate.cache
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.RazorTargetAssemblyInfo.cache
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.RazorTargetAssemblyInfo.cs
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.Views.pdb
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\staticwebassets\HPlusSports.Web.StaticWebAssets.Manifest.cache
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\staticwebassets\HPlusSports.Web.StaticWebAssets.Pack.cache
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.HPlusSports.Web.Microsoft.AspNetCore.StaticWebAssets.props
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.HPlusSports.Web.props
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.HPlusSports.Web.props
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.HPlusSports.Web.props
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.dll
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.pdb
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSports.Web.genruntimeconfig.cache
+M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HPlusSports.Web\obj\Debug\netcoreapp3.1\HPlusSpo.08214DFC.Up2Date

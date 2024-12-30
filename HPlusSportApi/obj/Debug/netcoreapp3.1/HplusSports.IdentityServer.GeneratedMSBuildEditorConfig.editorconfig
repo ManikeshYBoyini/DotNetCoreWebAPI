@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = HplusSports.IdentityServer
+build_property.ProjectDir = M:\Professional\CSharpMaterial\MyFirstWebApiCore\MyFirstWebApiCore\HPlusSportApi\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
